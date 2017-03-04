@@ -1,1 +1,1 @@
-java -jar ./app.jar
+java -cp target/ukm-ukol4-1.0-SNAPSHOT.jar cz.ukol4
